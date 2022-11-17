@@ -1,0 +1,15 @@
+C:\Users\Rafal\Desktop\UMC\Atividade_Para_Nota_Umc\AtividadeParaNotaRafaelVieira\AtividadeParaNotaRafaelVieira\obj\Debug\net6.0\AtividadeParaNotaRafaelVieira.csproj.AssemblyReference.cache
+C:\Users\Rafal\Desktop\UMC\Atividade_Para_Nota_Umc\AtividadeParaNotaRafaelVieira\AtividadeParaNotaRafaelVieira\obj\Debug\net6.0\AtividadeParaNotaRafaelVieira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafal\Desktop\UMC\Atividade_Para_Nota_Umc\AtividadeParaNotaRafaelVieira\AtividadeParaNotaRafaelVieira\obj\Debug\net6.0\AtividadeParaNotaRafaelVieira.AssemblyInfoInputs.cache
+C:\Users\Rafal\Desktop\UMC\Atividade_Para_Nota_Umc\AtividadeParaNotaRafaelVieira\AtividadeParaNotaRafaelVieira\obj\Debug\net6.0\AtividadeParaNotaRafaelVieira.AssemblyInfo.cs
+C:\Users\Rafal\Desktop\UMC\Atividade_Para_Nota_Umc\AtividadeParaNotaRafaelVieira\AtividadeParaNotaRafaelVieira\obj\Debug\net6.0\AtividadeParaNotaRafaelVieira.csproj.CoreCompileInputs.cache
+C:\Users\Rafal\Desktop\UMC\Atividade_Para_Nota_Umc\AtividadeParaNotaRafaelVieira\AtividadeParaNotaRafaelVieira\bin\Debug\net6.0\AtividadeParaNotaRafaelVieira.exe
+C:\Users\Rafal\Desktop\UMC\Atividade_Para_Nota_Umc\AtividadeParaNotaRafaelVieira\AtividadeParaNotaRafaelVieira\bin\Debug\net6.0\AtividadeParaNotaRafaelVieira.deps.json
+C:\Users\Rafal\Desktop\UMC\Atividade_Para_Nota_Umc\AtividadeParaNotaRafaelVieira\AtividadeParaNotaRafaelVieira\bin\Debug\net6.0\AtividadeParaNotaRafaelVieira.runtimeconfig.json
+C:\Users\Rafal\Desktop\UMC\Atividade_Para_Nota_Umc\AtividadeParaNotaRafaelVieira\AtividadeParaNotaRafaelVieira\bin\Debug\net6.0\AtividadeParaNotaRafaelVieira.dll
+C:\Users\Rafal\Desktop\UMC\Atividade_Para_Nota_Umc\AtividadeParaNotaRafaelVieira\AtividadeParaNotaRafaelVieira\bin\Debug\net6.0\AtividadeParaNotaRafaelVieira.pdb
+C:\Users\Rafal\Desktop\UMC\Atividade_Para_Nota_Umc\AtividadeParaNotaRafaelVieira\AtividadeParaNotaRafaelVieira\obj\Debug\net6.0\AtividadeParaNotaRafaelVieira.dll
+C:\Users\Rafal\Desktop\UMC\Atividade_Para_Nota_Umc\AtividadeParaNotaRafaelVieira\AtividadeParaNotaRafaelVieira\obj\Debug\net6.0\refint\AtividadeParaNotaRafaelVieira.dll
+C:\Users\Rafal\Desktop\UMC\Atividade_Para_Nota_Umc\AtividadeParaNotaRafaelVieira\AtividadeParaNotaRafaelVieira\obj\Debug\net6.0\AtividadeParaNotaRafaelVieira.pdb
+C:\Users\Rafal\Desktop\UMC\Atividade_Para_Nota_Umc\AtividadeParaNotaRafaelVieira\AtividadeParaNotaRafaelVieira\obj\Debug\net6.0\AtividadeParaNotaRafaelVieira.genruntimeconfig.cache
+C:\Users\Rafal\Desktop\UMC\Atividade_Para_Nota_Umc\AtividadeParaNotaRafaelVieira\AtividadeParaNotaRafaelVieira\obj\Debug\net6.0\ref\AtividadeParaNotaRafaelVieira.dll
